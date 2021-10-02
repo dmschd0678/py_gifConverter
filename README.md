@@ -10,9 +10,9 @@
 Download using pip via pypi.
 
 ```bash
-$ pip install 'package' --upgrade
+$ pip install python_gifConverter --upgrade
   or
-$ pip install git+'repository'
+$ pip install git+python_gifConverter
 ```
 (Mac/homebrew users may need to use ``pip3``)
 
